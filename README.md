@@ -98,29 +98,17 @@ R² Score: 0.34
 
 
 
-##### \## Exploratory Data Analysis
+## Exploratory Data Analysis
 
+### Rating Distribution
 
+![Rating Distribution](images/rating_distribution.png)
 
-###### \### Rating Distribution
+### Top Genres
 
+![Top Genres](images/top_genres.png)
 
+### Votes vs Rating
 
-!\[Rating Distribution](images/rating\_distribution.png)
-
-
-
-###### \### Top Genres
-
-
-
-!\[Top Genres](images/top\_genres.png)
-
-
-
-###### \### Votes vs Rating
-
-
-
-!\[Votes vs Rating](images/votes\_vs\_rating.png)
+![Votes vs Rating](images/votes_vs_rating.png)
 
